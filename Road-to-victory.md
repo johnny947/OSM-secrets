@@ -21,3 +21,6 @@ Answer: Proposed formation runs from midfield, strong opportunities to counter o
 Following up on the matter of playing counterplay: excellent choice. Use as many all-round midfielders as possible and defense, midfield and offense are to stay in place. Counterplay will posistion midfield wherever necessary, keeps defence behind and leaves strikers up front ready to strike.
 
 Addition: 3-3-2-2. This formation is slightly more defensive. Jorginho, Fernandinho and Arthus provide defenisive stability, Pogba and Vidal should be enough creativity up front. Aguero and Felix should do the trick up front. Centre backs are vulnerable, hence the defensive midfield. 
+
+
+KEVIN: Could definately work, the only risk is in the fact if the middle 5 are seen by OSM as a midfield area. If so, why isn't it called 3-5-2 B. Besides, a countering midfield should have all players able to both defend and attack. This could however be the case since even their weaker ratings are quite high. So if you trust in OSM taking the 3-2 midfield as a whole, this could work out very well.
