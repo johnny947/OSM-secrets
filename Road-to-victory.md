@@ -34,3 +34,5 @@ Johnny: Advice to train Mbappe,Zaniolo, TAA and Onana. Should be able to win aga
 KEVIN: That was the plan for tormorrow, tonight is an easy game but so is tomorrow. Resting them tomorrow leads to a fitter squad in the tough games to come. Today I'll still use some, tomorrow the others. But the plan is to rest them all over the two games.
 
 Johnny: I understand where you're coming from, but saving these players is essential. They won't get booked or injured and your star players get better. There are 3 training sessions in a day, so this way youll have 6 more training sessions for your best players.
+
+KEVIN: Kluivert, Zaniolo, Bediashile and Ederson are already training. Thanks for your concern though. I'll take my tackling to normal to try and avoid bookings.
