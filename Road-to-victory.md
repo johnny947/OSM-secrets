@@ -24,3 +24,5 @@ Addition: 3-3-2-2. This formation is slightly more defensive. Jorginho, Fernandi
 
 
 KEVIN: Could definately work, the only risk is in the fact if the middle 5 are seen by OSM as a midfield area. If so, why isn't it called 3-5-2 B. Besides, a countering midfield should have all players able to both defend and attack. This could however be the case since even their weaker ratings are quite high. So if you trust in OSM taking the 3-2 midfield as a whole, this could work out very well.
+
+Johnny: Thanks, I sure expect OSM to understand our thought process, since it's been intensile reviewed. What about the tactics on your team? Who are you playing?
