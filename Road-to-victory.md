@@ -6,4 +6,9 @@ Atalanta Team Report
 Strengths: Offense and keeper
 Weaknesses: Only 2 wingers, Only 1 back
 Prefered Formation: 4-3-3 B
->>>>>>> d7e81fa5b1d32439c86ffc7c404ae92eaf99a7df
+>>>>>>> d7e81fa5b1d32439c86ffc7c404ae92eaf99a
+AC Milan Weaknesses
+
+Decreased skill of backs
+2 World class strikers, followed by 85-rated
+Question: Downside of 3-5-2?
