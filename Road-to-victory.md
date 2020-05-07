@@ -19,3 +19,5 @@ Question: Downside of 3-5-2?
 Answer: Proposed formation runs from midfield, strong opportunities to counter or shoot from distance. Opens up to wingplay, but only if offensive midfield players on the wing are the teams playmakers. 
        
 Following up on the matter of playing counterplay: excellent choice. Use as many all-round midfielders as possible and defense, midfield and offense are to stay in place. Counterplay will posistion midfield wherever necessary, keeps defence behind and leaves strikers up front ready to strike.
+
+Addition: 3-3-2-2. This formation is slightly more defensive. Jorginho, Fernandinho and Arthus provide defenisive stability, Pogba and Vidal should be enough creativity up front. Aguero and Felix should do the trick up front. Centre backs are vulnerable, hence the defensive midfield. 
