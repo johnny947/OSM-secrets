@@ -30,3 +30,5 @@ Johnny: Thanks, I sure expect OSM to understand our thought process, since it's 
 KEVIN: Sampdoria hahaha, PC controlled, so shoudln't be too hard. Simple 4-3-3 with some minor changes to keep star players in shape. Outplay their team on rating by applying a basic low-risk strategy. Letting Gravenberch make his debut because Zaniolo is suspended. Tomorrow Torino and after that a very rough week. Torino is currently last so then I will use an almost complete B-team
 
 Johnny: Advice to train Mbappe,Zaniolo, TAA and Onana. Should be able to win against Sampdoria using a B-side. Putting your players on training this evening and tomorrow morning makes them ready for the next game, improved.
+
+KEVIN: That was the plan for tormorrow, tonight is an easy game but so is tomorrow. Resting them tomorrow leads to a fitter squad in the tough games to come. Today I'll still use some, tomorrow the others. But the plan is to rest them all over the two games.
