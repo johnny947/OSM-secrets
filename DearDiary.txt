@@ -1,0 +1,7 @@
+///Almere, Friday 08th of May 2020
+
+Dear Diary,
+
+I must have pulled off a masterstroke on the tic-tac-toe game. It has been over 24 hours and my opponent still hasn't
+made his mind up on his countermove. I am looking forward to seeing the strategy he'll try to pull off, and expect to see
+a response by dawn of the morning to follow. 
