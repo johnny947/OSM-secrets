@@ -13,3 +13,13 @@ Dear Diary,
 Though there are still a few hours on the clock, a response seems to be beyond todays horizon. It would be fair to say
 that the command git pull might really have an impact on my mental stability. Is this what it's like to be an astronaut?
 But no matter how many times the terminal will tell me I'm already up to date, I will never bow my head. 
+
+///Almere, Monday 11th of May 2020
+
+Dear Diary,
+
+As you may have noticed, I have decided to no longer write to you on a daily basis. The feeling of loneliness in this
+Git-folder is growing over time and I need to escape it for a wile after having Git pulled too often. However, this doesn't
+doesn't mean I'm off of coding. Yesterday I caught up on Johnny's progress and he just now told me he now caught up with
+mine again. We're also contemplating about developing a managerial football game. So there's definately enough going on.
+I will keep you posted!
